@@ -11,4 +11,4 @@ function caracteres_string (palabra) {
     return "Error, Verifica los datos enviados"
 }
 
-console.log(caracteres_string("Hola Mundo"))
+console.log(caracteres_string(""))

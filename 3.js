@@ -11,7 +11,7 @@ function Str_to_Array (palabra, caracter) {
         return palabra.split(caracter)
     }
 
-    return tipo_dato
+    return "Error, Verifica los datos enviados"
 }
 
 console.log(Str_to_Array("Hola Mundo", ' '))
